@@ -1,0 +1,19 @@
+{
+  "network": "sepolia",
+  "votingToken": "0xd0f8A2148813E268fEf9387Be6E401366881e7e9",
+  "governor": "0xB4462ac5B76f6d59D847de2795610Bf23B3eC571",
+  "deployer": "0xD78C12137087D394c0FA49634CAa80D0a1985A8A",
+  "timestamp": "2024-12-19T11:00:00.000Z",
+  "votingPeriod": "50 blocks (~10 minutes)",
+  "votingDelay": "0 blocks (immediate)",
+  "quorumFraction": "4%",
+  "etherscan": {
+    "votingToken": "https://sepolia.etherscan.io/address/0xd0f8A2148813E268fEf9387Be6E401366881e7e9",
+    "governor": "https://sepolia.etherscan.io/address/0xB4462ac5B76f6d59D847de2795610Bf23B3eC571"
+  },
+  "blockscout": {
+    "votingToken": "https://eth-sepolia.blockscout.com/address/0xd0f8A2148813E268fEf9387Be6E401366881e7e9",
+    "governor": "https://eth-sepolia.blockscout.com/address/0xB4462ac5B76f6d59D847de2795610Bf23B3eC571"
+  },
+  "description": "Sepolia deployment of Governor and VotingTokenERC721 contracts with 10-minute voting period"
+}
